@@ -1,0 +1,129 @@
+
+#phonefont{
+
+font-size :18px;
+
+
+
+}
+
+
+
+#phone{
+  font-size: 20px;
+
+  border-top:4px solid #af8f6e;
+
+  padding:10px;
+  margin: 0px;
+
+
+
+
+}
+
+
+
+
+
+.footer-background {
+  background-color: #292929;
+  height: 300px;
+  color: white;
+  padding-top: 50px !important;
+  padding-bottom: 40px;
+  padding-left: 30px !important;
+
+}
+
+
+.HeaderMenu{
+
+  padding-right: 280px;
+  padding-left: 150px;
+
+
+}
+
+#brown{
+
+
+  background-color:#af8f6e;
+  font-family : "Arial";
+
+}
+
+#TopMenuItems{
+
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0px;
+  font-style: normal;
+}
+
+#Aloha{
+  adding-top: 55px;
+  padding-bottom: 40px;
+
+  margin-top:20px;
+
+
+
+
+}
+
+
+
+
+#Middle{
+
+  padding-top: 15px;
+
+
+  padding-bottom: 15px;
+
+}
+
+#fonts{
+
+  font-family: "Arial Narrow";
+  font-size: 24px;
+  font-weight:bold;
+  margin-bottom:20px;
+}
+
+#otherfonts{
+
+  font-size:14px;
+}
+
+#signup{
+  margin-right: 250px;
+  margin-top:30px;
+
+}
+
+#about{
+  margin-left:330px;
+  margin-top:30px;
+}
+
+
+#foot{
+
+
+  margin-left: 300px;
+  margin-right:-100px;
+
+
+}
+
+#footfont{
+
+  font-family:"Helvetica";
+  font-size:14px;
+  color:grey;
+  font-weight:bold;
+
+
+}
